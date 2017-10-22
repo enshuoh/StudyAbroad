@@ -1,5 +1,33 @@
 {
-    "title": "出國留學-我的留學經驗談",
+    "author": "許恩碩 En-Shuo Hsu <enhsu@umich.edu>",
     "description": "我是臺灣大學資訊工程系大學部畢業的學生，這本書是關於我申請美國留學的經驗談。希望能對有需要的人有幫助",
-    "language": "zh-tw"
+    "extension": null,
+    "language": "zh-tw",
+    "generator": "site",
+    "links": {
+        "sharing": {
+            "all": null,
+            "facebook": null,
+            "google": null,
+            "twitter": null,
+            "weibo": null
+        }
+    },
+    "output": null,
+    "pdf": {
+        "fontSize": 12,
+        "footerTemplate": null,
+        "headerTemplate": null,
+        "margin": {
+            "bottom": 36,
+            "left": 62,
+            "right": 62,
+            "top": 36
+        },
+        "pageNumbers": false,
+        "paperSize": "a4"
+    },
+    "plugins": [],
+    "title": "出國留學-我的留學經驗談",
+    "variables": {}
 }
