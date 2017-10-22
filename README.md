@@ -1,18 +1,27 @@
-序
-=======
-<style>
-    .align_right{
-        display: block ;
-        text-align: right ; 
-    }
-</style>
+# 簡介
 
-I generally think if you do good things for people in the world, that comes back and you benefit from it over time. 
-<span class="align_right">- Mark Zuckerberg, Facebook Founder</span>
+講到出國留學，大家想必都有非常多的問題
 
-「我覺得如果你為世人做善事，你將收到回饋並逐漸從中受益。」
-<span class="align_right">-– 馬克．祖克柏 (臉書創辦人)</span>
+- 你是為什麼想要出國？
+- 你出國留學學到了什麼？
+- 我該留在臺灣念完碩士再出國，還是我該直接出國念碩士？
+- 假如我想要出國留學，我現在應該開始準備什麼？
+- 我要有什麼經驗能夠對我的申請有所幫助？
+- 我要怎麼才能上排名前10的學校？
+- 什麼科系出國比較有出路？
+- ......
 
+我會先從介紹我自己作為開始，讓你們了解我的背景與經驗來源開始，然後從了解自己、出國的好壞、事前的準備流程...，希望能幫助你，在看完我所寫的這些文字後，能夠幫助你們得到這些問題的答案。
+
+雖然這是篇留學相關的分享，但直接申請國外的工作，出國工作也算是一種出國學習的方式，所以我也會分享一些相關的想法。 ~~明明就是拖太久沒寫，申請學校的細節都忘記了~~
+
+## 致謝
+
+Mark Zuckerberg (Facebook Founder):
+> "I generally think if you do good things for people in the world, that comes back and you benefit from it over time."
+
+馬克．祖克柏 (臉書創辦人)︰
+> 「我覺得如果你為世人做善事，你將收到回饋並逐漸從中受益。」
 
 寫這篇東西其實也沒有想圖什麼，只是在網路上得到了很多人的幫助，查到了很多前人所留下來的資訊，所以自己也想回饋一些，除了能留下個紀錄，也能對之後的某些人有些幫助。
 
