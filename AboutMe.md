@@ -82,6 +82,6 @@
 
 ## 連絡方式
 
-Email: enhsu@umich.edu
+Email: enshuo@umich.edu
 
 假如有相關的問題，有收到信的話，我會盡快回復。
