@@ -156,7 +156,7 @@
         - [Stanford](http://online.stanford.edu/courses)
         - 上課學習順便練英聽
       - [TED](https://www.ted.com/)
-        - 蠻多很有趣的，但速度偏慢，我自己都拿來休閒用
+        - 蠻多很有趣的，但速度偏慢，我都拿來休閒用
         - 也可以上[VoiceTube](https://tw.voicetube.com/channel/ted)看
       - 其實還有一大堆東西可以聽，大家就挑自己喜歡的聽吧。
     - 考試技術
