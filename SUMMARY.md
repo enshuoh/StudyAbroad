@@ -15,13 +15,13 @@
   * [Networking](Preparation/Networking.md)
 
 * [出國階段](Abroad/Intro.md)
-  * [生活相關](TODO.md) - 未完成
-  * [選課](TODO.md) - 未完成
+  * [生活相關 - TODO](TODO.md) - 未完成
+  * [選課 - TODO](TODO.md) - 未完成
   * [實習](Abroad/Intern/Intro.md)
     * [資源](Abroad/Intern/Resource.md)
     * [履歷](Abroad/Intern/Resume.md)
     * [求職管道](Abroad/Intern/Positions.md)
-    * [面試](TODO.md) - 未完成
-  * [正職](TODO.md) - 未完成
+    * [面試 - TODO](TODO.md) - 未完成
+  * [正職 - TODO](TODO.md) - 未完成
 
 * [致謝](Thanks.md)
